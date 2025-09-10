@@ -135,6 +135,7 @@ flowchart LR
 ✅ Secure authentication & authorization layer
 
 ✅ Cloud-native infrastructure with AWS ECS, RDS & MSK
+
 ✅ Developer-friendly with LocalStack & Swagger/OpenAPI
 
 
