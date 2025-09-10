@@ -1,0 +1,6 @@
+// Size: 0 B
+### HTTP Request ▏#1
+GET http://localhost:4005/validate HTTP/1.1
+Authorization: Bearer "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc1MjM1MzI4OSwiZXhwIjoxNzUyMzg5Mjg5fQ.a4-JPRA29TYGC-C6fBFJ5JHl_9VF9irpLg7pUUFclz8"
+Content-Length: 0
+

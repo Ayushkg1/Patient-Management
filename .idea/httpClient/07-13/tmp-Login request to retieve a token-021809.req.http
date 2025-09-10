@@ -1,0 +1,12 @@
+// Size: 122 B
+### Login request to retieve a token
+POST http://localhost:4005/login HTTP/1.1
+Content-Type: application/json
+Content-Length: 122
+
+{
+    "email":"testuser@test.com",
+    "password":"password123"
+}
+
+> {% client.golbal.set("token", response.body.token) %}

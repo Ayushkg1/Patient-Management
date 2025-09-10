@@ -1,0 +1,12 @@
+// Status: 400, time: 77ms, size: 37 B
+### HTTP Request ▏#1
+PUT http://localhost:4000/patients/7c1f597b-0e8d-41f5-8bf8-61215940b79f HTTP/1.1
+connection: close
+content-type: application/json
+date: Thu, 03 Jul 2025 20:17:10 GMT
+transfer-encoding: chunked
+
+{
+  "email": "Email should not be blank"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-04/HTTP Request ▏#1/2025-07-04T014710.json

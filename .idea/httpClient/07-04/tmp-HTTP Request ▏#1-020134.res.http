@@ -1,0 +1,12 @@
+// Status: 400, time: 8ms, size: 42 B
+### HTTP Request ▏#1
+PUT http://localhost:4000/patients/cfdbcc17-e360-4dbb-a530-777410cab74e HTTP/1.1
+connection: close
+content-type: application/json
+date: Thu, 03 Jul 2025 20:31:34 GMT
+transfer-encoding: chunked
+
+{
+  "message": "Email address already exists"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-04/HTTP Request ▏#1/2025-07-04T020134.json

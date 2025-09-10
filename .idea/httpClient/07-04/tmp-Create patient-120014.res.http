@@ -1,0 +1,13 @@
+// Status: 400, time: 5ms, size: 56 B
+### Create patient
+POST http://localhost:4000/patients HTTP/1.1
+connection: close
+content-type: application/json
+date: Thu, 03 Jul 2025 18:30:14 GMT
+transfer-encoding: chunked
+
+{
+  "name": "must not be blank",
+  "email": "must not be blank"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-04/Create patient/2025-07-04T000014.json

@@ -1,0 +1,171 @@
+// Status: 200, time: 199ms, size: 3.7 kB
+### GET request to get all patients
+GET http://localhost:4004/api/patients HTTP/1.1
+content-type: application/json
+date: Tue, 08 Jul 2025 18:06:22 GMT
+transfer-encoding: chunked
+
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "address": "456 Elm St, Shelbyville",
+    "dateOfBirth": "1990-09-23"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174002",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "address": "789 Oak St, Capital City",
+    "dateOfBirth": "1978-03-12"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174003",
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "address": "321 Pine St, Springfield",
+    "dateOfBirth": "1982-11-30"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174004",
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "address": "654 Maple St, Shelbyville",
+    "dateOfBirth": "1995-02-05"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174005",
+    "name": "Michael Green",
+    "email": "michael.green@example.com",
+    "address": "987 Cedar St, Springfield",
+    "dateOfBirth": "1988-07-25"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174006",
+    "name": "Sarah Taylor",
+    "email": "sarah.taylor@example.com",
+    "address": "123 Birch St, Shelbyville",
+    "dateOfBirth": "1992-04-18"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174007",
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "address": "456 Ash St, Capital City",
+    "dateOfBirth": "1975-01-11"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174008",
+    "name": "Laura White",
+    "email": "laura.white@example.com",
+    "address": "789 Palm St, Springfield",
+    "dateOfBirth": "1989-09-02"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174009",
+    "name": "James Harris",
+    "email": "james.harris@example.com",
+    "address": "321 Cherry St, Shelbyville",
+    "dateOfBirth": "1993-11-15"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174010",
+    "name": "Emma Moore",
+    "email": "emma.moore@example.com",
+    "address": "654 Spruce St, Capital City",
+    "dateOfBirth": "1980-08-09"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174011",
+    "name": "Ethan Martinez",
+    "email": "ethan.martinez@example.com",
+    "address": "987 Redwood St, Springfield",
+    "dateOfBirth": "1984-05-03"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174012",
+    "name": "Sophia Clark",
+    "email": "sophia.clark@example.com",
+    "address": "123 Hickory St, Shelbyville",
+    "dateOfBirth": "1991-12-25"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174013",
+    "name": "Daniel Lewis",
+    "email": "daniel.lewis@example.com",
+    "address": "456 Cypress St, Capital City",
+    "dateOfBirth": "1976-06-08"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174014",
+    "name": "Isabella Walker",
+    "email": "isabella.walker@example.com",
+    "address": "789 Willow St, Springfield",
+    "dateOfBirth": "1987-10-17"
+  },
+  {
+    "id": "341dd0c9-1c9b-461c-9282-45a66634ff30",
+    "name": "johny walker",
+    "email": "test@example.com",
+    "address": "123 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St, Springfield",
+    "dateOfBirth": "1985-06-15"
+  },
+  {
+    "id": "1a5bbeb5-a519-4d64-bfa7-3d6484039da1",
+    "name": "ayush walker",
+    "email": "ayush@example.com",
+    "address": "123 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "478f58d2-1a2d-463d-a8ab-b0541d69542c",
+    "name": "ayush bhai",
+    "email": "ayush@bhai.com",
+    "address": "123 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "5f78ea91-e4f3-4c3d-8f1a-edc9c50941ab",
+    "name": "ayush2 bhai",
+    "email": "ayush2@bhai.com",
+    "address": "123 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "46c58e5e-1c8b-4356-867a-86c48dcf8330",
+    "name": "ayush3 bhai",
+    "email": "ayush3@bhai.com",
+    "address": "1234 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "ca08ac4e-d0cb-414c-b635-d1c55e7f7dff",
+    "name": "ayush4 bhai",
+    "email": "ayush4@bhai.com",
+    "address": "1234 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "f86d287d-2a22-4c30-80d5-cdefe244e01d",
+    "name": "ayush5 bhai",
+    "email": "ayush5@bhai.com",
+    "address": "1234 main street",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "9d043d8b-65d5-4d49-a0fb-0bf4ba1d0101",
+    "name": "ayush6 bhai",
+    "email": "ayush6@bhai.com",
+    "address": "1234 main street",
+    "dateOfBirth": "1995-09-09"
+  }
+]
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-08/GET request to get all patients/2025-07-08T233622.json

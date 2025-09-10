@@ -1,0 +1,14 @@
+// Status: 401, time: 253ms, size: 0 B
+### Login request to retieve a token
+POST http://localhost:4005/login HTTP/1.1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-length: 0
+date: Sat, 12 Jul 2025 20:10:19 GMT
+expires: 0
+pragma: no-cache
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 0
+
+
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-13/Login request to retieve a token/2025-07-13T014019.txt

@@ -1,0 +1,14 @@
+// Status: 404, time: 14ms, size: 122 B
+### GET request to get all patients
+GET http://localhost:4004/patients HTTP/1.1
+content-length: 122
+content-type: application/json
+
+{
+  "timestamp": "2025-07-08T18:05:55.740+00:00",
+  "path": "/patients",
+  "status": 404,
+  "error": "Not Found",
+  "requestId": "5fc9d0e2-2"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-08/GET request to get all patients/2025-07-08T233555.json

@@ -1,0 +1,17 @@
+// Status: 200, time: 426ms, size: 179 B
+### Login request to retieve a token
+POST http://localhost:4004/auth/login HTTP/1.1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-type: application/json
+date: Thu, 17 Jul 2025 18:37:03 GMT
+expires: 0
+pragma: no-cache
+transfer-encoding: chunked
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 0
+
+{
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc1Mjc3NzQyMywiZXhwIjoxNzUyODEzNDIzfQ.ngS9LN2wjXm5LidDG-gg9GbyS6BSEwzJQA6-hl_VFyI"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-18/Login request to retieve a token/2025-07-18T000704.json

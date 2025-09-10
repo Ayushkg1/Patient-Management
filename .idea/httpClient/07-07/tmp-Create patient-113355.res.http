@@ -1,0 +1,12 @@
+// Status: 400, time: 145ms, size: 42 B
+### Create patient
+POST http://localhost:4000/patients HTTP/1.1
+connection: close
+content-type: application/json
+date: Mon, 07 Jul 2025 18:03:55 GMT
+transfer-encoding: chunked
+
+{
+  "message": "Email address already exists"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-07/Create patient/2025-07-07T233355.json

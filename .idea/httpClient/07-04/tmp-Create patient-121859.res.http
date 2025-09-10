@@ -1,0 +1,15 @@
+// Status: 200, time: 118ms, size: 149 B
+### Create patient
+POST http://localhost:4000/patients HTTP/1.1
+content-type: application/json
+date: Thu, 03 Jul 2025 18:48:59 GMT
+transfer-encoding: chunked
+
+{
+  "id": "5636749f-d3e9-4853-b803-ba0c83dd4c9e",
+  "name": "johny walker",
+  "email": "test@example.com",
+  "address": "123 main street",
+  "dateOfBirth": "1995-09-09"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-04/Create patient/2025-07-04T001859.json

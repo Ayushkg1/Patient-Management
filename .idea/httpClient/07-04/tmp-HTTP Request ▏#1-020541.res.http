@@ -1,0 +1,15 @@
+// Status: 200, time: 21ms, size: 150 B
+### HTTP Request ▏#1
+PUT http://localhost:4000/patients/1786d8a7-9894-4e1a-a2fb-22573f696741 HTTP/1.1
+content-type: application/json
+date: Thu, 03 Jul 2025 20:35:41 GMT
+transfer-encoding: chunked
+
+{
+  "id": "1786d8a7-9894-4e1a-a2fb-22573f696741",
+  "name": "johny walker",
+  "email": "test2@example.com",
+  "address": "123 main street",
+  "dateOfBirth": "1995-09-09"
+}
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-04/HTTP Request ▏#1/2025-07-04T020541.json

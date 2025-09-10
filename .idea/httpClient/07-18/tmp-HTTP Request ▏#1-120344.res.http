@@ -1,0 +1,14 @@
+// Status: 200, time: 50ms, size: 0 B
+### HTTP Request ▏#1
+GET http://localhost:4004/auth/validate HTTP/1.1
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-length: 0
+date: Thu, 17 Jul 2025 18:33:44 GMT
+expires: 0
+pragma: no-cache
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-xss-protection: 0
+
+
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-18/HTTP Request ▏#1/2025-07-18T000344.txt

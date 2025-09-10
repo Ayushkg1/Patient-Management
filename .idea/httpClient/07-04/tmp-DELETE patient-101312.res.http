@@ -1,0 +1,7 @@
+// Status: 204, time: 77ms, size: 0 B
+### DELETE patient
+DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000 HTTP/1.1
+date: Fri, 04 Jul 2025 04:43:12 GMT
+
+
+>> /Users/ayushkumargupta/Downloads/patient-management/.idea/httpClient/07-04/DELETE patient/2025-07-04T101312.txt

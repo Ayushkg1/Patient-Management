@@ -1,0 +1,6 @@
+// Size: 0 B
+### HTTP Request ▏#1
+GET http://localhost:4004/auth/validate HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc1Mjc3NzE0OCwiZXhwIjoxNzUyODEzMTQ4fQ.V_ntX4j9TgkWaCvx-r6fyj46xWKgW8a58YdwMnG0AYQ
+Content-Length: 0
+
